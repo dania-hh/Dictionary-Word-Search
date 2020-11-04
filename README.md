@@ -1,6 +1,6 @@
 # Dictionary-Word-Search
 
-This program searches through a dictionary text file  for  either:  a  full  word,  the  beginning  of  a  word,  or  a  wordwith a missing letter.  
+This program searches through a dictionary text file for either: a full  word, the beginning of a word, or a word with a missing letter.  
 
 Data Structures Used:  
 - Maps
