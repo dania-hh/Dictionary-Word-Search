@@ -13,7 +13,7 @@ This program provides three **key functionalities**:
   **INPUT: figs**   
   **OUTPUT: found**
 - **Prefix-Search**: program lists all **words** in the input dictionary that **start with** a user-**provided prefix**.   
-  **INPUT: hum* **   
+  ***INPUT: hum* ***   
   **OUTPUT: human, humility, etc**
 - **Wildcard-Search**: program listd all the **words** of the dictionary that **match** the **search-string up to one character**. 
   **INPUT: ma*e**   
