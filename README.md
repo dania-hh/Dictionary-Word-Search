@@ -10,10 +10,10 @@ Data Structures Used:
 
 This program provides three **key functionalities**:  
 - **Full-Word-Search**: program returns whether a user-**provided word** is **found** in the input dictionary.   
-  INPUT: figs 
+  INPUT: figs   
       OUTPUT: word found
 - **Prefix-Search**: program lists all **words** in the input dictionary that **start with** a user-**provided prefix**.   
-  INPUT: hum*
+  INPUT: hum*  
   OUTPUT: human, humility, etc
 - **Wildcard-Search**: program listd all the **words** of the dictionary that **match** the **search-string up to one character**. 
   INPUT: ma*e   
