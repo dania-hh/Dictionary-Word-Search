@@ -15,7 +15,7 @@ This program provides three **key functionalities**:
 - **Prefix-Search**: program lists all **words** in the input dictionary that **start with** a user-**provided prefix**.   
   INPUT: hum*  
   OUTPUT: human, humility, etc
-- **Wildcard-Search**: program listd all the **words** of the dictionary that **match** the **search-string up to one character**. 
+- **Wildcard-Search**: program listd all the **words** of the dictionary that **match** the **search-string up to one character**.   
   INPUT: ma*e   
   OUTPUT: make, male, etc
 
